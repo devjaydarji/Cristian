@@ -1,0 +1,14 @@
+
+
+## first run the Dockerfile_counsul.sh >>  create consul conatiner using latest images
+
+### seconf run the Docker_client.sh >>> creat the node container and join with node part 
+
+### this Docker_client.sh script with argument you can find the Ip of consul server after run the Dockerfile_conusl.sh that Ip you have to add after the ./Docker_client.sh <ipaddress>
+
+  ### command >>>>    ./Docker_client.sh  <Ip address>
+
+##after this command node will added
+
+
+
